@@ -1,0 +1,30 @@
+Trial 1: 0 0
+
+Trial 2: 3 170
+
+Trial 3: 2 70
+
+Trial 4: 2 117
+
+Trial 5: 0 0
+
+Trial 6: 1 30
+
+Trial 7: 2 104
+
+Trial 8: 18 1094
+
+Trial 9: 10 769
+
+Trial 10: 1 96
+
+Trial 11: 39 1796
+
+Trial 12: 40 2102
+
+Trial 13: 600 30300
+
+Trial 14: 31 2397
+
+Trial 15: 90 5129
+
